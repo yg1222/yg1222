@@ -14,7 +14,7 @@
   - [Server practice](#)
   - [npm importing practice](#)
 - <b>Business Solutions and Project Management</b>
-  - [Trello - My favorite productivity platform at the moment. (trello.com)]
+  - Trello - My favorite productivity platform at the moment. (trello.com)
 
 
 <h2>👨‍💻 Development Projects:</h2>
