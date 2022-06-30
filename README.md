@@ -12,7 +12,7 @@
   - Built a PowerShell script to create bulk user accounts
   - Developed Group Policies in-line with DISA STIGs in order to secure Server and Client OSes
 - <b>NodeJs and Express</b>
-  - [Server practice](#)
+  - [Server practice](https://github.com/yg1222/Server-practice)
   - [npm importing practice](#)
 - <b>Business Solutions and Project Management</b>
   - Trello - My favorite productivity platform at the moment. (trello.com)
