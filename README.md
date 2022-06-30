@@ -11,15 +11,15 @@
   - Created standards for the provisioning and de-provisioning of Active Directory user accounts
   - Built a PowerShell script to create bulk user accounts
   - Developed Group Policies in-line with DISA STIGs in order to secure Server and Client OSes
-- <b>NodeJs and Express</b>
-  - [Server practice](https://github.com/yg1222/Server-practice)
-  - [npm express importing practice](https://github.com/yg1222/npm-express-import-practice)
 - <b>Business Solutions and Project Management</b>
   - Trello - My favorite productivity platform at the moment. (trello.com)
 
 
 <h2>👨‍💻 Development Projects:</h2>
 
+-<b>NodeJs and Express</b>
+  - [Server practice](https://github.com/yg1222/Server-practice)
+  - [npm express importing practice](https://github.com/yg1222/npm-express-import-practice)
 - <b>Responsive Front End Practice (HTML, CSS, Bootstrap 5)</b> 
   - [Tinder Clone](#) 
 
