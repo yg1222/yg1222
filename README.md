@@ -3,8 +3,9 @@
 
 <h2>👨‍💻 Current Technologies I either work with or am currently learning:</h2>
 
-- <b>Cloud Computing (AWS)</b> 
-  - [Currenctly working on my AWS Certified Cloud Practitioner ](#) 
+- <b>Cloud Computing and Networking (AWS, CCNA)</b> 
+  - [Currenctly working on my AWS Certified Cloud Practitioner from Amazon](#)
+  - [Currenctly working on my Cisco Certified Network Associate from Cisco](#) 
 - <b>Active Directory and PowerShell</b>
   - Used VirtualBox to run Server 2019 as well  Windows 10 in other VirtualBox environments.
   - Created standards for the provisioning and de-provisioning of Active Directory user accounts
