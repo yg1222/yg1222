@@ -7,7 +7,7 @@
   - Currenctly working on my AWS Certified Cloud Practitioner from Amazon
   - Currenctly working on my Cisco Certified Network Associate from Cisco
 - <b>Active Directory and PowerShell</b>
-  - Used VirtualBox to run Server 2019 as well  Windows 10 in other VirtualBox environments.
+  - Used VirtualBox to run Server 2019 as well as Windows 10 in other VirtualBox environments.
   - Created standards for the provisioning and de-provisioning of Active Directory user accounts
   - Built a PowerShell script to create bulk user accounts
   - Developed Group Policies in-line with DISA STIGs in order to secure Server and Client OSes
