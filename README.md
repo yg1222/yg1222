@@ -21,8 +21,8 @@
 <h2>👨‍💻 Development Projects:</h2>
 
 
-- <b>Responsive Front End Practice (HTML, CSS, Bootstrap 5)</b> 
-  - [Tinder Clone](#) 
+- <b>Python(Flask)</b> 
+  - [Weather Peek - A weather app implementing the openweathermap API](https://github.com/yg1222/weather-peek) 
 
 
 <!--
