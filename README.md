@@ -1,18 +1,16 @@
 ### Hi there 👋
-<h1>I'm Yemi! <br/><a href="https://github.com/yg1222">Tech Specialist</a>, <a href="https://www.linkedin.com/in/yemigeorge/">Software Developer</a> </h1>
+<h1>I'm Yemi! <br/><a>Software Developer</a> </h1>
 
 <h2>👨‍💻 Current Technologies I either work with or am currently learning:</h2>
 
 - <b>Cloud Computing and Networking (AWS, CCNA)</b> 
-  - Currenctly working on my AWS Certified Cloud Practitioner from Amazon
-  - Currenctly working on my Cisco Certified Network Associate from Cisco
+  - AWS Certified Cloud Practitioner from Amazon
+  - Cisco Certified Network Associate from Cisco
 - <b>Active Directory and PowerShell</b>
   - Used VirtualBox to run Server 2019 as well as Windows 10 in other VirtualBox environments.
   - Created standards for the provisioning and de-provisioning of Active Directory user accounts
   - Built a PowerShell script to create bulk user accounts
   - Developed Group Policies in-line with DISA STIGs in order to secure Server and Client OSes
-- <b>Business Solutions and Project Management</b>
-  - Trello - My favorite productivity platform at the moment. (trello.com)
 
 
 <h2>👨‍💻 Development Projects:</h2>
